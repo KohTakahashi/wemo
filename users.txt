@@ -1,2 +1,2 @@
 koh		:	test
-takahashi	:	cerego
+takahashi	:	test2
